@@ -1,0 +1,40 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.section {
+	height: 100vh;
+	display: inline-block;
+	width: 100%;
+}
+
+#section1 {
+	background: pink;
+}
+
+#section2 {
+	background: yellow;
+}
+
+#section3 {
+	background: red;
+}
+
+#section4 {
+	background: green;
+}
+
+#section5 {
+	background: blue;
+}
+
+h1 {
+	margin: 100px;
+	text-align: center;
+	padding: 0;
+}
